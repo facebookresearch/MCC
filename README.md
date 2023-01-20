@@ -66,7 +66,7 @@ python submitit_mcc.py \
     --eval_epoch_len_multiplier 200 \
 ```
 - Here we additionally specify `--use_hypersim` for running Hypersim scene reconstruction experiments.
-- We use slightly different hyperparameters to accomodate the scene reconstruction task.
+- We use slightly different hyperparameters to accommodate the scene reconstruction task.
 
 ## Testing on iPhone captures
 To test on iPhone captures, please use the [Record3D](https://record3d.app/) App on an iPhone to capture an RGB image and the corresonding point cloud (.obj) file. To generate the segmentation mask, we used a private segmentation model; Users may use other tools/models to obtain the mask. Two example captures are available in the `demo` folder. 
