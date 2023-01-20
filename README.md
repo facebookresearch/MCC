@@ -5,19 +5,19 @@
 [Christoph Feichntenhofer](https://feichtenhofer.github.io/),
 [Georgia Gkioxari](https://gkioxari.github.io/)
   
-### [[Paper]]() [[Project Page]](https://mcc3d.github.io/) ###
+### [[Paper]](https://arxiv.org/abs/2301.08247) [[Project Page]](https://mcc3d.github.io/) ###
 
 <video controls autoplay src="https://user-images.githubusercontent.com/1841547/213249405-a9052b5c-08e6-44ce-9140-35e0063a3fa4.mp4" controls="controls" style="max-width: 730px;"></video>
 
 
 
 
-This is a PyTorch implementation of [Multiview Compressive Coding (MCC)]():
+This is a PyTorch implementation of [Multiview Compressive Coding (MCC)](https://arxiv.org/abs/2301.08247):
 ```
 @article{wu2023multiview,
   author    = {Wu, Chao-Yuan and Johnson, Justin and Malik, Jitendra and Feichtenhofer, Christoph and Gkioxari, Georgia},
   title     = {Multiview Compressive Coding for 3{D} Reconstruction},
-  journal   = {arXiv},
+  journal   = {arXiv preprint arXiv:2301.08247},
   year      = {2023},
 }
 ```
